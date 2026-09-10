@@ -21,5 +21,13 @@ I took the foundational code from the tutorial and made it more unique by adding
 * Beautiful and romantic theme.
 * Mobile-friendly and responsive.
 
+## 🔮 Future Work
+
+Here are some features and improvements I plan to add to this project in the future:
+
+* **🎵 Background Music:** Integrate a custom audio player with romantic background music that users can play/pause.
+* **💌 Add letter/messages:** Add Valentine's messages. 
+* **✨ More Interactive Effects:** Add a particle system for falling flower petals or shooting stars in the background.
+
 ---
 Made with ❤️ for Valentine's Day.
